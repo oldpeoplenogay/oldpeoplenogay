@@ -2,7 +2,7 @@
 - 👀 I’m interested in anything interesting.
 - 🌱 I’m currently learning bioinformatics.
 - 💞️ I’m looking to collaborate on anything interesting.
-- 📫 How to reach me: Email
+- 📫 How to reach me: LinkedIN
 - 😄 Pronouns: ???
 - ⚡ Fun fact: ???
 
