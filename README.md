@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **bioinformatics**
 
-- 📫 How to reach me **LinkedIn**
+- 📫 How to reach me:
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
