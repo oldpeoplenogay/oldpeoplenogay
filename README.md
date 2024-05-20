@@ -1,29 +1,14 @@
-<h1 align="center">Hi 👋, I'm Tony</h1>
+<h1 align="center">HELLOO I'm Tony</h1>
 <h3 align="center">D:</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=oldpeoplenogay&label=Profile%20views&color=0e75b6&style=flat" alt="oldpeoplenogay" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=oldpeoplenogay" alt="oldpeoplenogay" /></a> </p>
 
-- 🔭 I’m currently working on **internship projects**
 
 - 🌱 I’m currently learning **bioinformatics**
 
-- 👯 I’m looking to collaborate on **anything interesting**
-
-- 🤝 I’m looking for help with **nothing**
-
-- 👨‍💻 All of my projects are available at [???](???)
-
-- 📝 I regularly write articles on [???](???)
-
-- 💬 Ask me about **???**
-
 - 📫 How to reach me **LinkedIn**
-
-- 📄 Know about my experiences [???](???)
-
-- ⚡ Fun fact **???**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
